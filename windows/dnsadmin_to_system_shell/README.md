@@ -1,8 +1,8 @@
 ## Gain system reverse shell from domain user with Dnsadmin group
   
     
-Reverse shell is practically copy-paste from dev-frog/C-Reverse-Shell (here on Github)  
-The DNS api are greatly inspired by vbscrub  
+Reverse shell is practically copy-paste from `dev-frog/C-Reverse-Shell` (here on Github)  
+The DNS api are greatly inspired by `vbscrub`  
   
 # Compile & execute
 *NB!:* Remember to edit the `DnsPlug.cpp` file to match IP and Port of attacker.
