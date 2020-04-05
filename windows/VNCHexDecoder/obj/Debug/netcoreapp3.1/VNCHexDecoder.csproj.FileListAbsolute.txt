@@ -1,0 +1,13 @@
+C:\Users\caspe\VSProjects\VNCHexDecoder\bin\Debug\netcoreapp3.1\VNCHexDecoder.exe
+C:\Users\caspe\VSProjects\VNCHexDecoder\bin\Debug\netcoreapp3.1\VNCHexDecoder.deps.json
+C:\Users\caspe\VSProjects\VNCHexDecoder\bin\Debug\netcoreapp3.1\VNCHexDecoder.runtimeconfig.json
+C:\Users\caspe\VSProjects\VNCHexDecoder\bin\Debug\netcoreapp3.1\VNCHexDecoder.runtimeconfig.dev.json
+C:\Users\caspe\VSProjects\VNCHexDecoder\bin\Debug\netcoreapp3.1\VNCHexDecoder.dll
+C:\Users\caspe\VSProjects\VNCHexDecoder\bin\Debug\netcoreapp3.1\VNCHexDecoder.pdb
+C:\Users\caspe\VSProjects\VNCHexDecoder\obj\Debug\netcoreapp3.1\VNCHexDecoder.csprojAssemblyReference.cache
+C:\Users\caspe\VSProjects\VNCHexDecoder\obj\Debug\netcoreapp3.1\VNCHexDecoder.csproj.CoreCompileInputs.cache
+C:\Users\caspe\VSProjects\VNCHexDecoder\obj\Debug\netcoreapp3.1\VNCHexDecoder.AssemblyInfoInputs.cache
+C:\Users\caspe\VSProjects\VNCHexDecoder\obj\Debug\netcoreapp3.1\VNCHexDecoder.AssemblyInfo.cs
+C:\Users\caspe\VSProjects\VNCHexDecoder\obj\Debug\netcoreapp3.1\VNCHexDecoder.dll
+C:\Users\caspe\VSProjects\VNCHexDecoder\obj\Debug\netcoreapp3.1\VNCHexDecoder.pdb
+C:\Users\caspe\VSProjects\VNCHexDecoder\obj\Debug\netcoreapp3.1\VNCHexDecoder.genruntimeconfig.cache
