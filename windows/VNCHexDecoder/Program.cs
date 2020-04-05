@@ -1,6 +1,11 @@
 ﻿using System;
 using System.Security.Cryptography;
 
+//
+// Props to @Andrej K. at StackOverflow:
+// https://stackoverflow.com/questions/7855238/encode-decode-realvnc-password
+//
+
 namespace VNCHexDecoder
 {
     class Program
