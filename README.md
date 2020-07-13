@@ -14,3 +14,7 @@ Directory structure should be self-explanatory.
 - [X] [C++ Reverse shell](windows/revShell/revShell.cpp)  
 - [X] [DNSAdmin Privesc + Reverse shell](windows/dnsadmin_to_system_shell/DnsPlug.cpp)  
 - [X] [VNC password decoder](windows/VNCHexDecoder/Program.cs)  
+
+## Exploits
+
+- [X] [CVE-2019-17240: Username bruteforce (bypass)](exploits/CVE-2019-17240/bluteforce.py)
