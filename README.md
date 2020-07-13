@@ -17,4 +17,4 @@ Directory structure should be self-explanatory.
 
 ## Exploits
 
-- [X] [CVE-2019-17240: Username bruteforce (bypass)](exploits/CVE-2019-17240/bluteforce.py)
+- [X] [CVE-2019-17240: Login bruteforce (bypass)](exploits/CVE-2019-17240/bluteforce.py)
