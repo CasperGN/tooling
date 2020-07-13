@@ -1,4 +1,4 @@
-# Misc
+# Tooling
 
 Own collection of various self made tools
 
