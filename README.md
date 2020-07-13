@@ -13,13 +13,13 @@ Directory structure should be self-explanatory.
 
 ### Windows
 
-- [X] [C++ Reverse shell](OS/windows/revShell/revShell.cpp)  
-- [X] [DNSAdmin Privesc + Reverse shell](OS/windows/dnsadmin_to_system_shell/DnsPlug.cpp)  
-- [X] [VNC password decoder](OS/windows/VNCHexDecoder/Program.cs)  
+- [X] [C++ Reverse shell](os/windows/revShell/revShell.cpp)  
+- [X] [DNSAdmin Privesc + Reverse shell](os/windows/dnsadmin_to_system_shell/DnsPlug.cpp)  
+- [X] [VNC password decoder](os/windows/VNCHexDecoder/Program.cs)  
 
 ### Generic
 
-- [X] [Python privesc + reverse shell (sudo SETENV)](OS/generic/CHANGE_ME.py)
+- [X] [Python privesc + reverse shell (sudo SETENV)](os/generic/CHANGE_ME.py)
 
 ## Exploits
 
