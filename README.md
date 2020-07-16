@@ -8,6 +8,7 @@ Directory structure should be self-explanatory.
 
 - [X] [LFI Tool](protocol/http/lfi.py)  
 - [X] [SMTP Enum](protocol/smtp/smtp_enum.py)  
+- [X] [Imap extraction](protocol/imap/imapper.py)  
 
 ## OS tools
 
